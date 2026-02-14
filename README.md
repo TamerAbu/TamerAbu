@@ -4,7 +4,7 @@
 
 **Fullstack Developer @ Moveo Group**
 
-Computer Science Student | Ben Gurion University of the Negev
+Software Engineer | B.Sc. Computer Science, Ben Gurion University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamer-abu-shakra)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tamer11155@gmail.com)
